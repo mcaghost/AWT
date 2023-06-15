@@ -1,0 +1,42 @@
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\bin\Debug\PracticalNo1.exe.config
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\bin\Debug\PracticalNo1.exe
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\bin\Debug\PracticalNo1.pdb
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.csproj.AssemblyReference.cache
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmEmployee.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.Properties.Resources.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.csproj.GenerateResource.cache
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.csproj.CoreCompileInputs.cache
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.exe
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.pdb
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmFriendInfo.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmTransaction.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.frmArea.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.Frm1ShowData.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmDigitalClock.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.Frm2ShowData.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmLeapYear.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmConvertor.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmMultipleInheritance.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.String_Manupulation.resources
+C:\Users\Tanuja Tabib\Desktop\Practical_sem2\AWT\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmIndexer.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\bin\Debug\PracticalNo1.exe.config
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\bin\Debug\PracticalNo1.exe
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\bin\Debug\PracticalNo1.pdb
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.Frm1ShowData.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.Frm2ShowData.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.frmArea.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmConvertor.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmDigitalClock.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmEmployee.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmFriendInfo.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmIndexer.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmMultipleInheritance.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmTransaction.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.FrmLeapYear.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.Properties.Resources.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.String_Manupulation.resources
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.exe
+C:\Users\DELL\Desktop\C#\PracticalNo1\PracticalNo1\PracticalNo1\obj\Debug\PracticalNo1.pdb
