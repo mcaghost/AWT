@@ -1,0 +1,28 @@
+﻿@model CustomerApplication_MVC.Models.Customer
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CustomerDisplay</title>
+    <style>
+        body {
+            background-color: #F1F1F1;
+        }
+    </style>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="text-center">
+        <h1>Customer Information System</h1>
+        <p>Customer ID : @Model.Custid</p>
+        <p>Customer Name : @Model.CustName</p>
+        <p>Customer Address : @Model.CustAdd</p>
+</body>
+</html>
