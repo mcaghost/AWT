@@ -1,0 +1,7 @@
+D:\Semester 2\Practical No.5\WCF Web Service\WcfService_Factorial\bin\Debug\WcfService_Factorial.dll.config
+D:\Semester 2\Practical No.5\WCF Web Service\WcfService_Factorial\bin\Debug\WcfService_Factorial.dll
+D:\Semester 2\Practical No.5\WCF Web Service\WcfService_Factorial\bin\Debug\WcfService_Factorial.pdb
+D:\Semester 2\Practical No.5\WCF Web Service\WcfService_Factorial\obj\Debug\WcfService_Factorial.csproj.AssemblyReference.cache
+D:\Semester 2\Practical No.5\WCF Web Service\WcfService_Factorial\obj\Debug\WcfService_Factorial.csproj.CoreCompileInputs.cache
+D:\Semester 2\Practical No.5\WCF Web Service\WcfService_Factorial\obj\Debug\WcfService_Factorial.dll
+D:\Semester 2\Practical No.5\WCF Web Service\WcfService_Factorial\obj\Debug\WcfService_Factorial.pdb
